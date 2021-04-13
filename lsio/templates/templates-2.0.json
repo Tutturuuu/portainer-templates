@@ -7199,7 +7199,7 @@
 			{
 				"container": "/config",
 				"bind": "/volume1/docker/znc/config"
-			}
+			},
 				{
 			"type": 1,
 			"title": "Registry",
